@@ -15,13 +15,13 @@ body {
 
 #navbar nav {
     position: relative;
-    margin-top: 46%;
+    margin-top: 47%;
     display: inline-block;
     list-style: circle;
     background: #FFFFFF;
-    opacity: 0.4;
+    opacity: 1;
     width: 100%;
-    height: 10%;
+    height: 5%;
 }
 #navbar ul li {
     width: 8%;
