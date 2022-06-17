@@ -24,7 +24,7 @@ Une fois le site chargé, on arrivera sur cette page. Si besoin plus tard dans l
 
 ![picture](includes/res/adobexd/index.png)
 
-### Consulter un dossier
+### __>Consulter un dossier__
 
 Après le chargement, nous pouvons accéder au fichier et dossier présent sur notre "bureau". Lorsque on ouvre un dossier, on a une fenêtre de ce dossier qui s'ouvrira.
 
