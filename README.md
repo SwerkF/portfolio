@@ -6,6 +6,8 @@ Ayant passé ma première année en BTS SIO, je voulais vraiment refaire mon Por
 
 Le concept serait une sorte de navigateur Windows, qui permettrait a l'utilisateurs de naviguer comme s'il utilisait un sytème d'éxploiatation. via cette page Github, vous pourrez suivre l'avancement du site.
 
+[>> Le site est disponible ici <<](https://www.google.com](https://oliwerportfolio.alwaysdata.net/)
+
 ## __>A quoi ça ressemblera ?__
 
 J'ai pu réaliser via AdobeXD, un prototype de mon site, à quoi ça devrait ressembler, au fur et à mesure, des nouvelles images seront rajoutées dans le dossier "includes/res/adobexd/". Les 3 images principales pour décrire le projet sont : 
@@ -14,7 +16,7 @@ J'ai pu réaliser via AdobeXD, un prototype de mon site, à quoi ça devrait res
 
 Cette page s'affichera lors du chargement du site web, avec bien évidemment une animation de chargement, et les éléments apparaissant petit à petit.
 
-![picture](includes/res/adobexd/loading.png]
+![picture](includes/res/adobexd/loading.png)
 
 ### __>L'index__
 
