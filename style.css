@@ -14,8 +14,8 @@ body {
 }
 
 #navbar nav {
-    position: relative;
-    margin-top: 47%;
+    position: fixed;
+    bottom: 0;
     display: inline-block;
     list-style: circle;
     background: #FFFFFF;
