@@ -6,7 +6,7 @@ Ayant passé ma première année en BTS SIO, je voulais vraiment refaire mon Por
 
 Le concept serait une sorte de navigateur Windows, qui permettrait a l'utilisateurs de naviguer comme s'il utilisait un sytème d'éxploiatation. via cette page Github, vous pourrez suivre l'avancement du site.
 
-[>> Le site est disponible ici <<](https://www.google.com](https://oliwerportfolio.alwaysdata.net/)
+[Le site est disponible ici](https://www.google.com](https://oliwerportfolio.alwaysdata.net/)
 
 ## __>A quoi ça ressemblera ?__
 
