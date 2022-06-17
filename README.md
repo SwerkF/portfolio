@@ -1,22 +1,22 @@
 # Portfolio Swerk
 
-## Introduction
+## __>Introduction__
 
 Ayant passé ma première année en BTS SIO, je voulais vraiment refaire mon Portfolio, qui était sous Wordpress. Grâce à mon expérience aquise en stage, je me suis dis que il était temps de le refaire.
 
 Le concept serait une sorte de navigateur Windows, qui permettrait a l'utilisateurs de naviguer comme s'il utilisait un sytème d'éxploiatation. via cette page Github, vous pourrez suivre l'avancement du site.
 
-## A quoi ça ressemblera ?
+## __>A quoi ça ressemblera ?__
 
 J'ai pu réaliser via AdobeXD, un prototype de mon site, à quoi ça devrait ressembler, au fur et à mesure, des nouvelles images seront rajoutées dans le dossier "includes/res/adobexd/". Les 3 images principales pour décrire le projet sont : 
 
-### La page de chargement 
+### __>La page de chargement__ 
 
 Cette page s'affichera lors du chargement du site web, avec bien évidemment une animation de chargement, et les éléments apparaissant petit à petit.
 
-![picture](includes/res/adobexd/loading.png
+![picture](includes/res/adobexd/loading.png]
 
-### L'index
+### __>L'index__
 
 Une fois le site chargé, on arrivera sur cette page. Si besoin plus tard dans le projet, on affichera avant une page de connexion au site.
 
@@ -28,7 +28,7 @@ Après le chargement, nous pouvons accéder au fichier et dossier présent sur n
 
 ![picture](includes/res/adobexd/index-window.png)
 
-## Contact
+## __>Contact__
 
 Je suis preneur de tout conseil concernant le CSS, HTML, README, ect... 
 
